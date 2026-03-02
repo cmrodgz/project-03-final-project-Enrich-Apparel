@@ -20,4 +20,4 @@ Live Website -
 https://cmrodgz.github.io/project-03-final-project-Enrich-Apparel/ 
 
 Documentation Folder Link - 
-https://github.com/cmrodgz/Project-03-Final-Project/tree/main/project-03-final-project/docs 
+https://github.com/cmrodgz/project-03-final-project-Enrich-Apparel/tree/main/docs 
