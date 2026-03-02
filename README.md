@@ -17,7 +17,7 @@ The scope.md, plan.md, and retrospective.md are located in the docs/ folder.
 
 ## Live Website and Documentation Folder Link
 Live Website - 
-https://github.com/cmrodgz/Project-03-Final-Project 
+https://cmrodgz.github.io/project-03-final-project-Enrich-Apparel/ 
 
 Documentation Folder Link - 
 https://github.com/cmrodgz/Project-03-Final-Project/tree/main/project-03-final-project/docs 
